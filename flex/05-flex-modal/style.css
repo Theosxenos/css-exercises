@@ -71,23 +71,12 @@ button.cancel {
 {
   padding: 15px;
   display: flex;
-}
-
-.message-wrapper
-{
-  display: flex;
-  flex-direction: column;
+  gap: 15px;
 }
 
 .icon
 {
   flex-shrink: 0;
-  margin-right: 15px;
-}
-
-.close-button
-{
-  align-self: flex-end;
 }
 
 .topbar
