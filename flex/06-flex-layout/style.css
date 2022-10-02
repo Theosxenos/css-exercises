@@ -48,7 +48,7 @@ ul
   list-style-type: none;
 }
 
-.container
+body
 {
   display: flex;
   flex-direction: column;
@@ -67,6 +67,7 @@ ul
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  flex: 1;
 }
 
 .footer
